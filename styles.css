@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Lexend Deca", sans-serif;
+    scroll-behavior: smooth;
 
 }
 .con1{
@@ -341,8 +342,8 @@ margin-top: 1em;
     color: green;
 }
 .resbox:hover{
-    transform: scale(1.1);
-    transition: 0.3s ease-in-out;
+    transform: scale(1.01);
+    transition: 0.3s;
 }
 #contact{
     width: 100%;
